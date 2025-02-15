@@ -1,0 +1,1 @@
+pip install pandas numpy pyspark kafka-python xgboost shap boto3 flask fastapi uvicorn
