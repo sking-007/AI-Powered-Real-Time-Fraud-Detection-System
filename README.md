@@ -91,4 +91,4 @@ kubectl get services
 ---
 
 **Author:** Umair khalid
-**Contact:** 
+**Contact:** sking3061<2gmail.com
